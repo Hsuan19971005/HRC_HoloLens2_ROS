@@ -1,0 +1,4 @@
+trajectory_msgs/JointTrajectory trajectories
+float32 speed_factor
+---
+std_msgs/Bool complete_execution

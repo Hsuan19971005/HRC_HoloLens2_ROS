@@ -1,0 +1,3 @@
+HsuanMoveitJoints hsuan_moveit_joints
+---
+trajectory_msgs/JointTrajectory trajectories

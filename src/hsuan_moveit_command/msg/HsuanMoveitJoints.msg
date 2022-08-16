@@ -1,0 +1,5 @@
+sensor_msgs/JointState start_joint_state
+sensor_msgs/JointState end_joint_state
+geometry_msgs/Pose start_pose
+geometry_msgs/Pose end_pose
+float32 speed_factor
